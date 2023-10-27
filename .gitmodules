@@ -1,0 +1,3 @@
+[submodule "swiper_app"]
+	path = swiper_app
+	url = git@github.com:ichikawaharuki/JavaScript.git
