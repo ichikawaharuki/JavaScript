@@ -4,3 +4,6 @@
 [submodule "turbolinks_verification"]
 	path = turbolinks_verification
 	url = git@github.com:ichikawaharuki/JavaScript.git
+[submodule "swiper_app"]
+    path = swiper_app
+    url = git@github.com:your-username/swiper_app.git
