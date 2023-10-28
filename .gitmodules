@@ -1,3 +1,3 @@
-[submodule "swiper_app"]
-	path = swiper_app
-	url = git@github.com:ichikawaharuki/JavaScript.git
+[submodule "swiper_app_old"]
+    path = swiper_app_old
+    url = git@github.com:ichikawaharuki/JavaScript.git
